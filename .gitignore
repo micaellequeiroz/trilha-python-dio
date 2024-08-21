@@ -1,7 +1,11 @@
 00 - Fundamentos/
 !00 - Fundamentos/desafio.py
-01 - Estrutura de dados
-!01 - Estrutura de dados/desafio.py
+01 - Estrutura de dados/01 - Listas
+01 - Estrutura de dados/02 - Tuplas
+01 - Estrutura de dados/03 - Conjuntos
+01 - Estrutura de dados/04 - Dicionários
+01 - Estrutura de dados/05 - Funções
+
 02 - Programação Orientada a Objetos
 03 - Decoradores, Iteradores e Geradores
 04 - Data e hora
